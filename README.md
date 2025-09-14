@@ -1,4 +1,4 @@
-html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -229,7 +229,3 @@ html lang="ru">
         });
     </script>
 </body>
-</html>
-
-Telegram (https://t.me/Nikita24_01)
-Nikita# -Taksi-
